@@ -9,3 +9,4 @@ ${pinturafavorita.nomedoartista}
 ${pinturafavorita.ano}
 ${pinturafavorita.signifcado}
 `)
+console.log("logo")
